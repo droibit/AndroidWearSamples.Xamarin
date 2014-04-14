@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="AppName">Android Wear Notifications</string>
+	<string name="ActivityLabel">AndroidWear Notification.Xamarin</string>
+
+	<string name="Preset">Preset</string>
+	<string name="Properties">Properties</string>
+    <string name="Priority">Priority</string>
+    <string name="Actions">Actions</string>
+    <string name="IncludeLargeIcon">Include large icon</string>
+    <string name="LocalOnly">Local only</string>
+    <string name="IncludeContentIntent">Include content intent</string>
+
+    <string name="BasicExample">Basic example</string>
+    <string name="InboxExample">Inbox example</string>
+    <string name="BigPictureExample">Big picture example</string>
+    <string name="BigTextExample">Big text example</string>
+    <string name="BigActionExample">Big action example</string>
+    <string name="MultiplePageExample">Multiple page example</string>
+    <string name="NotificationBundleExample">Notification bundle example</string>
+
+    <string name="AmbientMinPriority">Ambient (Min) priority</string>
+    <string name="LowPriority">Low priority</string>
+    <string name="DefaultPriority">Default priority</string>
+    <string name="HighPriority">High priority</string>
+    <string name="MaxPriority">Max priority</string>
+
+    <string name="NoActions">No actions</string>
+    <string name="SingleAction">Single action</string>
+    <string name="ReplyAction">Reply action</string>
+    <string name="ReplyActionWithChoices">Reply action with choices</string>
+
+    <string name="ExampleAction">Example action</string>
+    <string name="ExampleReplyAction">Example reply action</string>
+
+    <string name="ExampleActionClicked">Example action clicked</string>
+    <string name="ExampleReplyActionClicked">Example reply action clicked</string>
+    <string name="SecondChildActionClicked">Second child action clicked</string>
+    <string name="ContentIntentClicked">Content intent clicked</string>
+    <string name="ExampleNotificationDeleted">Example notification deleted</string>
+
+    <string name="ExampleContentTitle">Basic example title</string>
+    <string name="ExampleContentText">Basic example text</string>
+
+    <string name="BigTextExampleTitle">Big text example title</string>
+    <string name="BigTextExampleSummaryText">Big text example summary</string>
+    <string name="BigTextExampleBigText">
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
+        incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
+        exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure
+        dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+        Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
+        anim id est laborum.
+    </string>
+
+    <string name="InboxStyleExampleTitle">Inbox style example title</string>
+    <string name="InboxStyleExampleSummaryText">Inbox style example summary</string>
+    <string name="InboxStyleExampleLine1">Inbox style example line 1</string>
+    <string name="InboxStyleExampleLine2">Inbox style example line 2</string>
+    <string name="InboxStyleExampleLine3">Inbox style example line 3</string>
+
+    <string name="BigPictureStyleExampleTitle">Big picture style example title</string>
+    <string name="BigPictureStyleExampleSummaryText">Big picture style example summary</string>
+
+    <string name="IconSubtext">Icon subtext</string>
+
+    <string name="SecondPageContentTitle">Second page title</string>
+    <string name="SecondPageContentText">Second page text</string>
+
+    <string name="FirstChildContentTitle">First child title</string>
+    <string name="FirstChildContentText">
+        First child text. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+        tempor incididunt ut labore et dolore magna aliqua.</string>
+    <string name="SecondChildContentTitle">Second child title</string>
+    <string name="SecondChildContentText">
+        Second child text. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+        tempor incididunt ut labore et dolore magna aliqua.</string>
+    <string name="SecondChildAction">Second child action</string>
+
+    <string name="ExampleReplyLabel">Message?</string>
+
+    <string name="ExampleReplyAnswerLabel">Answer?</string>
+    <string name="Yes">Yes</string>
+    <string name="No">No</string>
+    <string name="Maybe">Maybe</string>
+
+
+</resources>

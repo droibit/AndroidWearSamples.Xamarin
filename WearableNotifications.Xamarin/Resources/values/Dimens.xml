@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<resources>
+    <dimen name="ActivityHorizontalMargin">16dp</dimen>
+    <dimen name="ActivityVerticalMargin">16dp</dimen>
+
+    <dimen name="EditorTextSize">12dp</dimen>
+    <dimen name="EditorItemPaddingTop">8dp</dimen>
+    <dimen name="EditorItemPaddingBottom">8dp</dimen>
+    <dimen name="EditorSpinnerCaptionMinWidth">50dp</dimen>
+    <dimen name="EditorSpinnerPaddingLeft">10dp</dimen>
+
+</resources>
