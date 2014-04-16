@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WearableNotifications.Xamarin", "WearableNotifications.Xamarin\WearableNotifications.Xamarin.csproj", "{EE1E0EEE-4C6C-419D-AB1B-3AFA096C6D8D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecipeAssistant.Xamarin", "RecipeAssistant\RecipeAssistant.Xamarin.csproj", "{AFD9B44B-D14F-4085-BE47-A8C206F49C3E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecipeAssistant.Xamarin", "RecipeAssistant.Xamarin\RecipeAssistant.Xamarin.csproj", "{AFD9B44B-D14F-4085-BE47-A8C206F49C3E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +21,6 @@ Global
 		{EE1E0EEE-4C6C-419D-AB1B-3AFA096C6D8D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(MonoDevelopProperties) = preSolution
-		StartupItem = RecipeAssistant\RecipeAssistant.Xamarin.csproj
+		StartupItem = RecipeAssistant.Xamarin\RecipeAssistant.Xamarin.csproj
 	EndGlobalSection
 EndGlobal

@@ -107,7 +107,6 @@
   </ItemGroup>
   <ItemGroup>
     <XamarinComponentReference Include="androidwearpreview">
-      <InstallationInProgress>True</InstallationInProgress>
       <Version>1.0.0.1</Version>
       <Visible>False</Visible>
     </XamarinComponentReference>

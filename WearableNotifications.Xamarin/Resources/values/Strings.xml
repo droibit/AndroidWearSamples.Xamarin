@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
-	<string name="AppName">Android Wear Notifications</string>
-	<string name="ActivityLabel">AndroidWear Notification.Xamarin</string>
+	<string name="AppName">Wearable Notifications</string>
+	<string name="ActivityLabel">Wearable Notifications</string>
 
 	<string name="Preset">Preset</string>
 	<string name="Properties">Properties</string>
