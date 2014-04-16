@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="AppName">Recipe Assistant</string>
+    <string name="ActionSettings">Settings</string>
+    <string name="ActionCook">Start</string>
+    <string name="Steps">Steps</string>
+    <string name="Ingredients">Ingredients</string>
+    <string name="StepCount">Step %1$d of %2$d</string>
+</resources>

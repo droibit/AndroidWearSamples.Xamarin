@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+        <ImageView
+            android:id="@+id/RecipeImageView"
+            android:layout_width="fill_parent"
+            android:layout_height="300dp"
+            android:layout_marginBottom="16dp"
+            android:background="#6aaa"
+            android:src="@drawable/Noimage" />
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:background="#dfff"
+            android:orientation="vertical">
+            <TextView
+                android:id="@+id/RecipeTextTitle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="8dp"
+                android:layout_marginLeft="8dp"
+                android:textAppearance="@style/RecipeHugeFont" />
+            <TextView
+                android:id="@+id/RecipeTextSummary"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="16dp"
+                android:layout_marginLeft="16dp"
+                android:textAppearance="@style/RecipeSummaryFont" />
+        </LinearLayout>
+        <TextView
+            android:id="@+id/IngredientsHeader"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="8dp"
+            android:layout_marginLeft="8dp"
+            android:text="@string/Ingredients"
+            android:textAppearance="@style/RecipeTitleFont"
+            android:visibility="gone" />
+        <TextView
+            android:id="@+id/TextIngredients"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="8dp"
+            android:layout_marginLeft="8dp"
+            android:textAppearance="@style/RecipeSummaryFont" />
+        <TextView
+            android:id="@+id/StepsHeader"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="8dp"
+            android:layout_marginLeft="8dp"
+            android:text="@string/Steps"
+            android:textAppearance="@style/RecipeTitleFont"
+            android:visibility="gone" />
+        <LinearLayout
+            android:id="@+id/LayoutSteps"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"
+            android:orientation="vertical"
+            android:textAppearance="@style/RecipeSummaryFont" />
+    </LinearLayout>
+</ScrollView>
